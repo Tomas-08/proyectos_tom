@@ -1,0 +1,85 @@
+body{
+            background-color: #f7e1d7;
+        }
+
+        p{
+            color: #d8a48f;
+        }
+
+        #animal {
+            color: #a3a380;
+        }
+
+        #conocer {
+            color: #d8a48f;
+        }
+        
+        #nombre{
+            color:  #a3a380;
+        }
+
+        #datos{
+            color: #d8a48f;
+        }
+
+        #hombre{
+            color: #d8a48f;
+        }
+
+        #adoptar{
+            color: #ffe5d9;
+        } 
+
+        #presentacion{
+            background-color: #c9a0a0;
+             min-height: 100%;
+             font-family: Georgia, 'Times New Roman', Times, serif;
+             border-radius: 20px;
+        }
+
+        .segundo{
+            background-color: #d6ce93; 
+            height: 400px;
+            width: 70%;
+        }
+
+        #misperros {
+            font-size: x-large;
+            padding: 10px;
+            margin-left: 10px;
+            text-indent: 40px;
+            color: #ffe5d9;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
+        #misangeles{
+            background-color: #c9a0a0;
+        }
+
+        #perro{
+            color: #ffe5d9;
+        }
+
+        #perros{
+            color: #ffe5d9;
+        }
+
+        #capitulos{
+            width: 800px;
+        }
+
+        td{
+            background-color: #36454f;
+            height: 180px;
+        }
+
+        *{
+            margin: 0;
+            padding: 0%;
+        }
+        
+
+
+
+ 
+       
